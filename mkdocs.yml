@@ -1,0 +1,25 @@
+site_name: "System Design for Knowledge Discovery"
+site_author: "Emma Tosch (etosch@uvm.edu)"
+site_description: "Public Course Website for CS295B/CS395B F2021 at University of Vermont"
+docs_dir: "src"
+use_directory_urls: false
+site_url: "https://uvm.edu/~maple/CS295B-F2021"
+repo_url: "https://github.com/etosch/CS295B-F2021"
+repo_name: "Github"
+edit_uri: "tree/main/src/"
+theme:
+  name: "readthedocs"
+  custom_dir: "customize"
+markdown_extensions:
+  - extra
+  - md_in_html
+  - sane_lists
+  - tables
+  - nl2br
+  - mdx_math
+  - attr_list
+nav:
+  - 'index,md'
+  - 'syllabus.md'
+  - 'schedule.md'
+  - 'course_projects.md'

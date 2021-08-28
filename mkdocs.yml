@@ -12,7 +12,6 @@ theme:
 markdown_extensions:
   - attr_list
   - extra
-  - md_in_html
   - sane_lists
   - tables
   - nl2br

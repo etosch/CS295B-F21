@@ -1,10 +1,10 @@
 # Scribe Guidelines (U)
 
-Undergraduates may earn up to 3 points for scribing lectures or project workshops/presentations. At present, I do not plan to have students scribe paper presentations, but if this turns out to be a lively class and there is demand, that may change. 
+*Scribing is an undergraduate-only course component.* Undergraduates may earn up to 3 points for scribing lectures or project workshops/presentations. At present, I do not plan to have students scribe paper presentations, but if this turns out to be a lively class and there is demand, that may change. 
 
 ## Why scribe?
 
-![Note taking icon](notas.png){: width="128px" style="float: right; padding-right: 16px;" }
+<!-- ![Note taking icon](notas.png){: width="128px" style="float: right; padding-left: 16px;" } -->
 
 In many classes, students copy down from the board what the professor writes...which come from the professor's notes. Why not just give students those notes? There are several objectives, including but not limited to: (1) controlling the rate of information flow, (2) ensuring each step is clear, allowing students to ask clarifying questions, and (3) encouraging students to engage with the material in detail, in real time. 
 
@@ -16,7 +16,7 @@ Scribing should happen in two phases: during the first phase you will be taking 
 
 ### Phase 1: Taking notes
 
-![Raised hand](hand.png){: height="4px" style="float:left;"}
+<!-- ![Raised hand](hand.png){: height="16px" style="float:left; padding-right:16px"} -->
 
 Taking notes is hard! It is especially challenging in classes that are discussion-based, where multiple people may be talking at once, and where conversations may happen at a much faster speed than lecture. When taking notes, **do not expect you will be able to participate at the same level of engagement as you would, were you not taking notes**. Do, however, feel empowered to **interrupt whenever you miss something**. 
 
@@ -56,6 +56,17 @@ For what your final form should look like, see the section on [how you will be g
 
 ## How to submit your notes
 
-There will be entries in Blackboard for you to submit your notes. Notes should be in pdf format, written in 
+There will be entries in **Blackboard** for you to submit your notes. This will be listed as an assignment for everyone, but I will only grade those who have volunteered to scribe. I will set up submission entries for each week no later than Sunday night of that week. 
+
+Notes should be in pdf format, written in LaTeX. I have written a [template on Overleaf](https://www.overleaf.com/read/gyfbqkjgrggs) to help you get started. You can either create an Overleaf account and copy this template, or download and compile LaTeX locally. If you are new to LaTeX, I recommend the former.
 
 ## How you will be graded
+
+Scribe notes will be graded on *completeness*, *correctness*, and *legibility*. I do not expect you to produce transcriptions, but I do expect some narrative structure; the [Overleaf template](https://www.overleaf.com/read/gyfbqkjgrggs) contains more detailed information on what this looks like. 
+
+Scribe notes with egregiously incorrect information cannot be distributed and will result in a grade of 0. If there is factually incorrect information in the notes, I will ask you to either correct them or remove them. If I've asked you to correct them, but you do not have time to do, I recommend merely removing those sections. 
+
+If you receive less than full credit for your notes, I will give you concrete feedback on how to revise your notes to earn full credit. 
+
+## What happens with your scribe notes
+If you receive a grade on your notes greater than zero, I will post your notes in Teams and Blackboard so that the class may use them. I will also post an anonymized version of your notes on this website. 

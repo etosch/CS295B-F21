@@ -1,52 +1,50 @@
-# Semester Schedule
-
-_This schedule is tenative._
+_This schedule is tenative and thus subject to change._
 
 
 | Date  | Topic  | Notes  |   |   |
 |---:|---|---|---|---|
-| Mon, Aug 30 |  Course Introduction | Lecture
+| Mon, Aug 30 | Course Introduction | Lecture
 | Wed, Sep 1  | Research Methods Basics | Lecture
 | Fri, Sep 3  | **CS Research Day**  | Discussion  |
 | Mon, Sep 6  | **Labor Day Holiday** | **No Class** |
-| Wed, Sep 8 | KDD background | Lecture |
-| Fri, Sep 10 | _A Database Perspective on Knowledge Discovery_ |
-| Mon, Sep 13 | Query Languages | Lecture <br/> **Add/Drop Deadline** |
-| Wed, Sep 15 | | _Student presentations_
+| Wed, Sep 8 | KDD Background | Lecture |
+| Fri, Sep 10 | &middot; _A Database Perspective on Knowledge Discovery_ <br/> &middot; _Systems for KDD: From Concepts to Practice_ | Example Presentations <br/> **Paper Bidding Due**|
+| Mon, Sep 13 | Data Mining and Query Languages | Lecture <br/> **Add/Drop Deadline** |
+| Wed, Sep 15 | &middot; _Spark SQL: Relational Data Processing in Spark_ <br/> &middot; _Causal Relational Learning_  | Student Presentations (U, G)
 | Fri, Sep 17 | Project Introductions | Lecture/Discussion
-| Mon, Sep 20 | Beyond Query Languages | Lecture 
-| Wed, Sep 22 | _Causal Relational Learning_ <br/> | _Student presentations_ |
+| Mon, Sep 20 | Under the Hood: Systems Considerations of Query Languages | Lecture 
+| Wed, Sep 22 | &middot; _Indri: A Language-model Based Search Engine for Complex Queries_ <br/> &middot; _FlumeJava: Easy, Efficient Data-Parallel Pipelines_ | Student Presentations (U, G)|
 | Fri, Sep 24 | Formal Language Design as Method | Lecture 
-| Mon, Sep 27 | 
-| Wed, Sep 29 | 
-| Fri, Oct 1  |
-| Mon, Oct 4  |
-| Wed, Oct 6  |
+| Mon, Sep 27 | Sound Tooling for Data Manipulation | Lecture
+| Wed, Sep 29 | &middot; _From Dirt to Shovels: Fully Automatic Tool Generation from Ad Hoc Data_ <br/> &middot; _Automating String Processing in Spreadsheets Using Input-Output Examples_ | Student Presentations (U, G)
+| Fri, Oct 1  | Project Proposal Presentations | Student Presentations (G)
+| Mon, Oct 4  | Courteous Goodwill: A Case Study on Reproducible Research via Empirical Software Engineering | Lecture |
+| Wed, Oct 6  | &middot; _A Large Scale Study of Programming Languages and Code Quality in GitHub_ <br/> &middot; _On the Impact of Programming Languages on Code Quality: A Reproduction Study_ | Student Presentations (U, G) |
 | Fri, Oct 8  | **Fall Recess** | **No Class** |
-| Mon, Oct 11 |
-| Wed, Oct 13 |
-| Fri, Oct 15 | 
-| Mon, Oct 18 | 
-| Wed, Oct 20 |
-| Fri, Oct 22 |
-| Mon, Oct 25 |
-| Wed, Oct 27 |
-| Fri, Oct 29 |
-| Mon, Nov 1  |
-| Wed, Nov 3  | 
-| Fri, Nov 5  |
-| Mon, Nov 8  |
+| Mon, Oct 11 | Sound Data Collection I: Labeling| Lecture
+| Wed, Oct 13 | &middot; _Snorkel: Rapid Training Data Creation with Weak Supervision_ <br/> &middot; _DeepDive: Declarative Knowledge Base Construction_ | Student Presentations (U, G)
+| Fri, Oct 15 | Project status presentation | [Workshop (Presenters: (G))](course_project.html#workshops) |
+| Mon, Oct 18 | Sound Data Collection II: Crowdsourcing | Lecture | 
+| Wed, Oct 20 | &middot; _AutoMan: A Platform for Integrating Human-Based and Digital Computation_ <br/> &middot; _Taking a HIT: Designing around Rejection, Mistrust, Risk, and Workers' Experiences in Amazon Mechanical Turk_ |  Student Presentations (U, G)
+| Fri, Oct 22 | Project status presentation | [Workshop (Presenters: (G))](course_project.html#workshops) |
+| Mon, Oct 25 | Underlying Assumptions: Demographics of Crowd Workers | Lecture |
+| Wed, Oct 27 | &middot; _Demographics and Dynamics of Mechanical Turk Workers_ <br/> &middot; _SurveyMan: Programming and Automatically Debugging Surveys_ | Student Presentations (U, G)
+| Fri, Oct 29 | Project status presentation | [Workshop (Presenters: (G))](course_project.html#workshops) |
+| Mon, Nov 1  | Crowdsourcing Systems and Design
+| Wed, Nov 3  | &middot; _The Crowd is a Collaborative Network_ <br/> &middot; _We are Dynamo: Overcoming Stalling and Friction in Collective Action for Crowd Workers_ | Student Presentations (U, G)
+| Fri, Nov 5  | Project status presentation | [Workshop (Presenters: (G))](course_project.html#workshops) |
+| Mon, Nov 8  | Ethical Implications of Data Collection via Crowd Work | Lecture | 
 | Wed, Nov 10 | **Prof. Tosch@CS050** | **No Class** |
-| Fri, Nov 12 |
-| Mon, Nov 15 |
-| Wed, Nov 17 |
-| Fri, Nov 19 |
+| Fri, Nov 12 | Project status presentation | [Workshop (Presenters: (G))](course_project.html#workshops) |
+| Mon, Nov 15 | Experimentation and Causal Inference | Lecture
+| Wed, Nov 17 | &middot; _Designing and Deploying Online Field Experiments_ <br/> &middot; _PlanAlyzer: Assessing Threats to the Validity of Online Field Experiments_ | Student Presentations (U, G)
+| Fri, Nov 19 | Report on outstanding tasks  | Student Presentations (G) |
 | Mon, Nov 22 | **Thanksgiving Recess** | **No Class** |
 | Wed, Nov 24 | **Thanksgiving Recess** | **No Class** |
 | Fri, Nov 26 | **Thanksgiving Recess** | **No Class** |
-| Mon, Nov 29 | 
-| Wed, Dec 1  |
-| Fri, Dec 3  |
-| Mon, Dec 6  |
-| Wed, Dec 8  |
-| Fri, Dec 10 |
+| Mon, Nov 29 | Rethinking KDD | Lecture
+| Wed, Dec 1  | &middot; _CivilServant: Community-Led Experiments in Platform Governance_ <br/> &middot; _Untangling Research and Practice: What Facebook’s “Emotional Contagion” Study Teaches Us_ | Student Presentations (U, G)
+| Fri, Dec 3  | TBD | **NeurIPS 2021**
+| Mon, Dec 6  | TBD | **NeurIPS 2021**
+| Wed, Dec 8  | TBD | **NeurIPS 2021**
+| Fri, Dec 10 | Summary, Opportunities, Course Evaluations  | Party, you earned it! <br/> **CS Fair** |

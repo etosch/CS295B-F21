@@ -1,23 +1,23 @@
 _This schedule is tenative and thus subject to change._
 
 
-| Date  | Topic  | Notes  |   |   |
-|---:|---|---|---|---|
+| Date  | Topic  | Form  |  Deadlines & Notes|
+|---:|---|---|---|
 | Mon, Aug 30 | Course Introduction | Lecture
 | Wed, Sep 1  | Research Methods Basics | Lecture
 | Fri, Sep 3  | **CS Research Day**  | Discussion  |
 | Mon, Sep 6  | **Labor Day Holiday** | **No Class** |
-| Wed, Sep 8 | KDD Background | Lecture |
-| Fri, Sep 10 | &middot; _A Database Perspective on Knowledge Discovery_ <br/> &middot; _Systems for KDD: From Concepts to Practice_ | Example Presentations <br/> **Paper Bidding Due**|
-| Mon, Sep 13 | Data Mining and Query Languages | Lecture <br/> **Add/Drop Deadline** |
+| Wed, Sep 8 | KDD Background | Lecture | |
+| Fri, Sep 10 | &middot; _A Database Perspective on Knowledge Discovery_ <br/> &middot; _Systems for KDD: From Concepts to Practice_ | Example Presentations | Paper Bidding Due (U,G)|
+| Mon, Sep 13 | Data Mining and Query Languages | Lecture | **Add/Drop Deadline** |
 | Wed, Sep 15 | &middot; _Spark SQL: Relational Data Processing in Spark_ <br/> &middot; _Causal Relational Learning_  | Student Presentations (U, G)
-| Fri, Sep 17 | Project Introductions | Lecture/Discussion
+| Fri, Sep 17 | Project Introductions | Lecture/Discussion | 
 | Mon, Sep 20 | Under the Hood: Systems Considerations of Query Languages | Lecture 
 | Wed, Sep 22 | &middot; _Indri: A Language-model Based Search Engine for Complex Queries_ <br/> &middot; _FlumeJava: Easy, Efficient Data-Parallel Pipelines_ | Student Presentations (U, G)|
-| Fri, Sep 24 | Formal Language Design as Method | Lecture 
+| Fri, Sep 24 | Formal Language Design as Method | Lecture | Project Proposals Due (G)
 | Mon, Sep 27 | Sound Tooling for Data Manipulation | Lecture
 | Wed, Sep 29 | &middot; _From Dirt to Shovels: Fully Automatic Tool Generation from Ad Hoc Data_ <br/> &middot; _Automating String Processing in Spreadsheets Using Input-Output Examples_ | Student Presentations (U, G)
-| Fri, Oct 1  | Project Proposal Presentations | Student Presentations (G)
+| Fri, Oct 1  | Project Proposal Presentations | Student Presentations (G) | Finalized Project Proposals Due (G)
 | Mon, Oct 4  | Courteous Goodwill: A Case Study on Reproducible Research via Empirical Software Engineering | Lecture |
 | Wed, Oct 6  | &middot; _A Large Scale Study of Programming Languages and Code Quality in GitHub_ <br/> &middot; _On the Impact of Programming Languages on Code Quality: A Reproduction Study_ | Student Presentations (U, G) |
 | Fri, Oct 8  | **Fall Recess** | **No Class** |
@@ -38,13 +38,13 @@ _This schedule is tenative and thus subject to change._
 | Fri, Nov 12 | Project status presentation | [Workshop (Presenters: (G))](course_project.html#workshops) |
 | Mon, Nov 15 | Experimentation and Causal Inference | Lecture
 | Wed, Nov 17 | &middot; _Designing and Deploying Online Field Experiments_ <br/> &middot; _PlanAlyzer: Assessing Threats to the Validity of Online Field Experiments_ | Student Presentations (U, G)
-| Fri, Nov 19 | Report on outstanding tasks  | Student Presentations (G) |
+| Fri, Nov 19 | Report on outstanding tasks  | Student Presentations (G) | Project Mid-term Reports due (G)
 | Mon, Nov 22 | **Thanksgiving Recess** | **No Class** |
 | Wed, Nov 24 | **Thanksgiving Recess** | **No Class** |
 | Fri, Nov 26 | **Thanksgiving Recess** | **No Class** |
 | Mon, Nov 29 | Rethinking KDD | Lecture
 | Wed, Dec 1  | &middot; _CivilServant: Community-Led Experiments in Platform Governance_ <br/> &middot; _Untangling Research and Practice: What Facebook’s “Emotional Contagion” Study Teaches Us_ | Student Presentations (U, G)
-| Fri, Dec 3  | TBD | **NeurIPS 2021**
-| Mon, Dec 6  | TBD | **NeurIPS 2021**
-| Wed, Dec 8  | TBD | **NeurIPS 2021**
-| Fri, Dec 10 | Summary, Opportunities, Course Evaluations  | Party, you earned it! <br/> **CS Fair** |
+| Fri, Dec 3  | TBD |
+| Mon, Dec 6  | TBD | |**NeurIPS 2021**
+| Wed, Dec 8  | TBD | |**NeurIPS 2021**
+| Fri, Dec 10 | Summary, Opportunities, Course Evaluations  | Party, you earned it! | Project Final Reports due (G) <br/> **CS Fair** <br/> **NeurIPS 2021**

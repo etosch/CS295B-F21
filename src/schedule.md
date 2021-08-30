@@ -3,7 +3,7 @@ _This schedule is tenative and thus subject to change._
 
 | Date  | Topic  | Form  |  Deadlines & Notes|
 |---:|---|---|---|
-| Mon, Aug 30 | Course Introduction | Lecture
+| Mon, Aug 30 | Course Introduction | [Lecture](lectures/CS295B_introduction.pdf)
 | Wed, Sep 1  | Research Methods Basics | Lecture
 | Fri, Sep 3  | **CS Research Day**  | Discussion  |
 | Mon, Sep 6  | **Labor Day Holiday** | **No Class** |

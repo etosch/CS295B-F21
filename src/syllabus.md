@@ -92,7 +92,7 @@ There are more than 100 points total available:
 *	There will be 20-30 readings throughout the semester. Students will enter reviews each week. Each review is worth up to 3 points. Students will enter reviews into hotcrp.
 *	Students will be required to present at least one, but no more than two, papers per semester. Students may choose to swap assignments and should let me know at least six hours before class. One student may negotiate with another to present their assigned reading, resulting in more than two presentations, so long as both parties consent. Each presentation is worth up to 10 points.
 *	Undergraduates may volunteer to scribe lectures (at most 2 scribes/lecture) and [project workshops](course_project.html#workshops). [Scribing is more than note-taking](scribe_guidelines.html); each document is worth up to 3 points and you will have the opportunity to improve your notes for more points. Notes should be typed up in [LaTeX](https://www.overleaf.com/read/gyfbqkjgrggs).
-*	Undergraduates may join a graduate project(course_project.html#undergraduates), however joining a project will result in no numeric credit. 
+*	Undergraduates may join a [graduate project](course_project.html#undergraduates), however joining a project will result in no numeric credit. 
 
 Thus, there are two ways to earn an A+: 
 

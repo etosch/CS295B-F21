@@ -13,13 +13,13 @@ _This schedule is tenative and thus subject to change._
 | Wed, Sep 15 | &middot; [_Spark SQL: Relational Data Processing in Spark_](https://uvm-cs295-f21.hotcrp.com/paper/17) <br/> &middot; [_Causal Relational Learning_](https://uvm-cs295-f21.hotcrp.com/paper/1)  | Student Presentations (U, G)
 | Fri, Sep 17 | Project Introductions | Lecture/Discussion | 
 | Mon, Sep 20 | Under the Hood: Systems Considerations of Query Languages | Lecture 
-| Wed, Sep 22 | &middot; _Indri: A Language-model Based Search Engine for Complex Queries_ <br/> &middot; _FlumeJava: Easy, Efficient Data-Parallel Pipelines_ | Student Presentations (U, G)|
+| Wed, Sep 22 | &middot; [_Indri: A Language-model Based Search Engine for Complex Queries_](https://uvm-cs295-f21.hotcrp.com/paper/19) <br/> &middot; [_FlumeJava: Easy, Efficient Data-Parallel Pipelines_](https://uvm-cs295-f21.hotcrp.com/paper/18) | Student Presentations (U, G)|
 | Fri, Sep 24 | Formal Language Design as Method | Lecture | Project Proposals Due (G)
 | Mon, Sep 27 | Sound Tooling for Data Manipulation | Lecture
-| Wed, Sep 29 | &middot; _From Dirt to Shovels: Fully Automatic Tool Generation from Ad Hoc Data_ <br/> &middot; _Automating String Processing in Spreadsheets Using Input-Output Examples_ | Student Presentations (U, G)
+| Wed, Sep 29 | &middot; [_From Dirt to Shovels: Fully Automatic Tool Generation from Ad Hoc Data_](https://uvm-cs295-f21.hotcrp.com/paper/28) <br/> &middot; [_Automating String Processing in Spreadsheets Using Input-Output Examples_](https://uvm-cs295-f21.hotcrp.com/paper/27) | Student Presentations (U, G)
 | Fri, Oct 1  | Project Proposal Presentations | Student Presentations (G) | Finalized Project Proposals Due (G)
 | Mon, Oct 4  | Courteous Goodwill: A Case Study on Reproducible Research via Empirical Software Engineering | Lecture |
-| Wed, Oct 6  | &middot; _A Large Scale Study of Programming Languages and Code Quality in GitHub_ <br/> &middot; _On the Impact of Programming Languages on Code Quality: A Reproduction Study_ | Student Presentations (U, G) |
+| Wed, Oct 6  | &middot; [_A Large Scale Study of Programming Languages and Code Quality in GitHub_](https://uvm-cs295-f21.hotcrp.com/paper/21) <br/> &middot; [_On the Impact of Programming Languages on Code Quality: A Reproduction Study_](https://uvm-cs295-f21.hotcrp.com/paper/6) | Student Presentations (U, G) |
 | Fri, Oct 8  | **Fall Recess** | **No Class** |
 | Mon, Oct 11 | Sound Data Collection I: Labeling| Lecture
 | Wed, Oct 13 | &middot; _Snorkel: Rapid Training Data Creation with Weak Supervision_ <br/> &middot; _DeepDive: Declarative Knowledge Base Construction_ | Student Presentations (U, G)

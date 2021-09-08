@@ -8,9 +8,9 @@ _This schedule is tenative and thus subject to change._
 | Fri, Sep 3  | **CS Research Day**  | Discussion  |
 | Mon, Sep 6  | **Labor Day Holiday** | **No Class** |
 | Wed, Sep 8 | KDD Background | Lecture | |
-| Fri, Sep 10 | &middot; _A Database Perspective on Knowledge Discovery_ <br/> &middot; _Systems for KDD: From Concepts to Practice_ | Example Presentations | Paper Bidding Due (U,G)|
+| Fri, Sep 10 | &middot; [_A Database Perspective on Knowledge Discovery_](https://uvm-cs295-f21.hotcrp.com/paper/2) <br/> &middot; [_Systems for KDD: From Concepts to Practice_](https://uvm-cs295-f21.hotcrp.com/paper/16) | Example Presentations | Paper Bidding Due (U,G)|
 | Mon, Sep 13 | Data Mining and Query Languages | Lecture | **Add/Drop Deadline** |
-| Wed, Sep 15 | &middot; _Spark SQL: Relational Data Processing in Spark_ <br/> &middot; _Causal Relational Learning_  | Student Presentations (U, G)
+| Wed, Sep 15 | &middot; [_Spark SQL: Relational Data Processing in Spark_](https://uvm-cs295-f21.hotcrp.com/paper/17) <br/> &middot; [_Causal Relational Learning_](https://uvm-cs295-f21.hotcrp.com/paper/1)  | Student Presentations (U, G)
 | Fri, Sep 17 | Project Introductions | Lecture/Discussion | 
 | Mon, Sep 20 | Under the Hood: Systems Considerations of Query Languages | Lecture 
 | Wed, Sep 22 | &middot; _Indri: A Language-model Based Search Engine for Complex Queries_ <br/> &middot; _FlumeJava: Easy, Efficient Data-Parallel Pipelines_ | Student Presentations (U, G)|

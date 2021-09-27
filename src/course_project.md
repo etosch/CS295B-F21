@@ -3,6 +3,7 @@
 Only graduate students are required to complete a course project. In the [Content](#content) section I will provide two suggested topics. You may also propose your own. Expect this document to be updated periodically throughout the course.
 
 ## Logistics 
+_Updated 9/27/21._ I have reduced the number of project presentation days from the original number in the schedule. 
 
 ### Workshops
 
@@ -10,7 +11,7 @@ On workshop days, your presentation may take a variety of forms, including but n
 
 #### Initial Project Presentation
 
-Every person/group will present (< 10 mins). At this point, you will have received feedback from me and should be able to identify the relevant systems, tasks, and environments under study, as well as the major research question you will address. 
+Every person/group will give a 5 min presentation introducing their course project to the class on Oct 18.  At this point, you will have received feedback from me and should be able to identify the relevant systems, tasks, and environments under study, as well as the major research question you will address. 
 
 
 #### Presenting related material
@@ -32,6 +33,6 @@ You may work with a partner on your project, but not in groups of more than two.
 
 ## Content
 
-We will discuss specifics of content during the project presentation day (see [the schedule](#schedule)). Your project proposals will have two major components: a topic or system you propose to study and a set of three possible research questions you'd like to answer bu the end of the semester. My feedback will focus on two things: (1) whether the topic is within scope of the course and (2) whether your research questions are sufficiently scoped. 
+Your project proposals will have two major components: a topic or system you propose to study and a set of three possible research questions you'd like to answer by the end of the semester. My feedback will focus on two things: (1) whether the topic is within scope of the course and (2) whether your research questions are sufficiently scoped. 
 
-I will circulate two example topics (one on instrumenting an existing system for experimentation and one on designing crowdsourcing systems) along with a list of research questions. You should feel free to use the examples as your project, or riff on them. I do not require the projects be unique. 
+<!-- I will circulate two example topics (one on instrumenting an existing system for experimentation and one on designing crowdsourcing systems) along with a list of research questions. You should feel free to use the examples as your project, or riff on them. I do not require the projects be unique.  -->

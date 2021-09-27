@@ -15,11 +15,15 @@ Please do not refer to me as "Ms. Tosch," and especially not "Mrs. Tosch." While
 MWF 12pm-12:50pm, Innovation E204
 
 #### Student hours (Office hours)
-  *	_In person_: Mondays, Innovation Hall E456
-  *	_Virtual_: Wednesdays, MS Teams
-  *	_Hybrid_: Thursdays, Innovation Hall E456 and MS Teams
+I will be in my office after class on Mondays and Wednesdays from 1-5pm and welcome students dropping by. I will always have Teams on, so if you need to join from another location, you can. I will also announce additional students hours on an as-needed basis. 
+
+*	_Hybrid_: Mondays, Innovation Hall E456 and MS Teams, 1-2pm and 3-5pm
+*	_Hybrid_: Wednesdays, Innovation Hall E456 and MS Teams, 1-5pm
+
 
 _I am also available over MS Teams chat (may not be synchronous), and by appointment with **24hrs notice**._ Unless you wish to discuss a sensitive issue, please post any questions to the appropriate Teams channel; it is likely that more people will be interested in your question or observation than you realize!
+
+**Note: I will be working from home on Tuesdays and Thursdays.**
 
 ### Modality
 This course provides in-person instruction only. In the event that we move to online instruction by university mandate, we will use the provided MS Teams [Team](https://teams.microsoft.com/l/team/19%3aq2RepyJxJt4oOAZ9cSBO7GXwaYUjXvD1Kv2YX3rszCc1%40thread.tacv2/conversations?groupId=37a87e97-f681-44a4-bec6-fe18b2ed5155&tenantId=1c177758-4d6b-43dc-aaeb-3b9c42562967). Please be advised that MS Teams is not fully functional on *Nix operating systems. Please ensure you familiarize yourself with the available [technical support for students](uvm_resources.html#technical-support-for-students). If you need a suitable device for fully participating during a stay-at-home order, please contact [UVM IT](https://www.uvm.edu/cess/technology_services) and your advisor for help acquiring a suitable device.

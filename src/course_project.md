@@ -48,7 +48,7 @@ Your research *topic* should, in some way, reflect the goals and paradigm of *kn
 
 Below are several suggestions for example topics; I've linked example project proposals.
 
-* [Instrumenting the Moodle LMS for experimentation]()
+* [Instrumenting the Moodle LMS for experimentation](https://www.overleaf.com/read/zfzvrfpqwsff)
 * [A comparison study of open-source conference management systems: OpenReview vs. Hotcrp]()
 * [Design elements for a fair crowdworking labor system]()
 

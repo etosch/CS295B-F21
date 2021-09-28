@@ -68,5 +68,5 @@ Scribe notes with egregiously incorrect information cannot be distributed and wi
 
 If you receive less than full credit for your notes, I will give you concrete feedback on how to revise your notes to earn full credit. 
 
-## What happens with your scribe notes
-If you receive a grade on your notes greater than zero, I will post your notes in Teams and Blackboard so that the class may use them. I will also post an anonymized version of your notes on this website. 
+<!-- ## What happens with your scribe notes
+If you receive a grade on your notes greater than zero, I will post your notes in Teams and Blackboard so that the class may use them. I will also post an anonymized version of your notes on this website.  -->

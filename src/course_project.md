@@ -49,8 +49,9 @@ Your research *topic* should, in some way, reflect the goals and paradigm of *kn
 Below are several suggestions for example topics; I've linked example project proposals.
 
 * [Instrumenting the Moodle LMS for experimentation](https://www.overleaf.com/read/zfzvrfpqwsff)
-* [A comparison study of open-source conference management systems: OpenReview vs. Hotcrp]()
-* [Design elements for a fair crowdworking labor system]()
+* [A comparison study of open-source conference management systems: OpenReview vs. Hotcrp](https://www.overleaf.com/read/ztsctqwscdmb)
+* Design elements for a fair crowdworking labor system
+
 
 I will also accept topics that have a *systems for machine learning* or *systems for data science* angle. I will be providing feedback on all project proposals, and you should feel free to reach out to me in order to workshop project ideas. 
 

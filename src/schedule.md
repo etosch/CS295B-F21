@@ -16,7 +16,7 @@ _This schedule is tenative and thus subject to change._
 | Wed, Sep 22 | **Prof. Tosch out** | **No class** |
 | Fri, Sep 24 | **Prof. Tosch out** | **No class** |
 | Mon, Sep 27 | **Prof. Tosch out** | **No class** | **Project information released asynchronously** | 
-| Wed, Sep 29 | Formal Language Design as Method | Lecture 
+| Wed, Sep 29 | Formal Language Design as Method | [Lecture](CS295B_fml_lang_method.pdf)
 | Fri, Oct 1 | Under the Hood: Systems Considerations of Query Languages | Lecture 
 | Mon, Oct 4 | &middot; [_Indri: A Language-model Based Search Engine for Complex Queries_](https://uvm-cs295-f21.hotcrp.com/paper/19) (Capricorn) <br/> &middot; [_FlumeJava: Easy, Efficient Data-Parallel Pipelines_](https://uvm-cs295-f21.hotcrp.com/paper/18) (Libra) | Student Presentations (U, G)|
 | Wed, Oct 6 | Sound Tooling for Data Manipulation | Lecture

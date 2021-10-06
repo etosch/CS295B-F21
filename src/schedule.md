@@ -16,10 +16,10 @@ _This schedule is tenative and thus subject to change._
 | Wed, Sep 22 | **Prof. Tosch out** | **No class** |
 | Fri, Sep 24 | **Prof. Tosch out** | **No class** |
 | Mon, Sep 27 | **Prof. Tosch out** | **No class** | **Project information released asynchronously** | 
-| Wed, Sep 29 | Formal Language Design as Method | [Lecture](CS295B_fml_lang_method.pdf)
+| Wed, Sep 29 | Formal Language Design as Method | [Lecture](lectures/CS295B_fml_lang_method.pdf)
 | Fri, Oct 1 | Under the Hood: Systems Considerations of Query Languages | [Lecture](lectures/CS295B_indri_flume.pdf)
 | Mon, Oct 4 | &middot; [_Indri: A Language-model Based Search Engine for Complex Queries_](https://uvm-cs295-f21.hotcrp.com/paper/19) (Capricorn) <br/> &middot; [_FlumeJava: Easy, Efficient Data-Parallel Pipelines_](https://uvm-cs295-f21.hotcrp.com/paper/18) (Libra) | Student Presentations (U, G)|
-| Wed, Oct 6 | Sound Tooling for Data Manipulation | Lecture
+| Wed, Oct 6 | Sound Tooling for Data Manipulation | [Lecture](lectures/CS295B_semantics.pdf)
 | Fri, Oct 8  | **Fall Recess** | **No Class** | Project Proposals Due (G)
 | Mon, Oct 11 | &middot; [_From Dirt to Shovels: Fully Automatic Tool Generation from Ad Hoc Data_](https://uvm-cs295-f21.hotcrp.com/paper/28) (Pices) <br/> &middot; [_Automating String Processing in Spreadsheets Using Input-Output Examples_](https://uvm-cs295-f21.hotcrp.com/paper/27) (Aquarius)| Student Presentations (U, G) 
 | Wed, Oct 13  | Courteous Goodwill: A Case Study on Reproducible Research via Empirical Software Engineering | Lecture |

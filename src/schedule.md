@@ -22,12 +22,12 @@ _This schedule is tenative and thus subject to change._
 | Wed, Oct 6 | Sound Tooling for Data Manipulation | [Lecture](lectures/CS295B_semantics.pdf)
 | Fri, Oct 8  | **Fall Recess** | **No Class** | Project Proposals Due (G)
 | Mon, Oct 11 | &middot; [_From Dirt to Shovels: Fully Automatic Tool Generation from Ad Hoc Data_](https://uvm-cs295-f21.hotcrp.com/paper/28) (Pices) <br/> &middot; [_Automating String Processing in Spreadsheets Using Input-Output Examples_](https://uvm-cs295-f21.hotcrp.com/paper/27) (Aquarius)| Student Presentations (U, G) 
-| Wed, Oct 13  | Courteous Goodwill: A Case Study on Reproducible Research via Empirical Software Engineering | Lecture |
+| Wed, Oct 13  | Courteous Goodwill: A Case Study on Reproducible Research via Empirical Software Engineering | [Lecture](lectures/reproducability.pdf) |
 | Fri, Oct 15  | &middot; [_A Large Scale Study of Programming Languages and Code Quality in GitHub_](https://uvm-cs295-f21.hotcrp.com/paper/21)  (Sagittarius)<br/> &middot; [_On the Impact of Programming Languages on Code Quality: A Reproduction Study_](https://uvm-cs295-f21.hotcrp.com/paper/6) (Scorpio) | Student Presentations (U, G) | Finalized Project Proposals Due (G)
 | Mon, Oct 18  | Project Proposal Presentations | Student Presentations (G) | 
-| Wed, Oct 20 | Sound Data Collection I: Labeling| Lecture
+| Wed, Oct 20 | Sound Data Collection I: Labeling| [Lecture](lectures/sound_labeling.pdf)
 | Fri, Oct 22 | &middot; [_Snorkel: Rapid Training Data Creation with Weak Supervision_](https://uvm-cs295-f21.hotcrp.com/paper/7) (Ares) <br/> &middot; [_DeepDive: Declarative Knowledge Base Construction_](https://uvm-cs295-f21.hotcrp.com/paper/3) (Taurus) | Student Presentations (U, G)
-| Mon, Oct 25 | Sound Data Collection II: Crowdsourcing | Lecture | 
+| Mon, Oct 25 | Sound Data Collection II: Crowdsourcing | [Lecture](lectures/sound_labeling_crowdwork.pdf) | 
 | Wed, Oct 27 | &middot; [_AutoMan: A Platform for Integrating Human-Based and Digital Computation_](https://uvm-cs295-f21.hotcrp.com/paper/8) (Gemini) <br/> &middot; [_Taking a HIT: Designing around Rejection, Mistrust, Risk, and Workers' Experiences in Amazon Mechanical Turk_](https://uvm-cs295-f21.hotcrp.com/paper/14) (Cancer) |  Student Presentations (U, G)
 | Fri, Oct 29 | Underlying Assumptions: Demographics of Crowd Workers | Lecture |
 | Mon, Nov 1 | &middot; [_Demographics and Dynamics of Mechanical Turk Workers_](https://uvm-cs295-f21.hotcrp.com/paper/24) (Virgo) <br/> &middot; [_SurveyMan: Programming and Automatically Debugging Surveys_](https://uvm-cs295-f21.hotcrp.com/paper/9) (Leo) | Student Presentations (U, G)

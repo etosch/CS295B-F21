@@ -31,9 +31,9 @@ _This schedule is tenative and thus subject to change._
 | Wed, Oct 27 | &middot; [_AutoMan: A Platform for Integrating Human-Based and Digital Computation_](https://uvm-cs295-f21.hotcrp.com/paper/8) (Gemini) <br/> &middot; [_Taking a HIT: Designing around Rejection, Mistrust, Risk, and Workers' Experiences in Amazon Mechanical Turk_](https://uvm-cs295-f21.hotcrp.com/paper/14) (Scorpio) |  Student Presentations (U, G)
 | Fri, Oct 29 | Underlying Assumptions: Demographics of Crowd Workers | Lecture |
 | Mon, Nov 1 | &middot; [_Demographics and Dynamics of Mechanical Turk Workers_](https://uvm-cs295-f21.hotcrp.com/paper/24) <br/> &middot; [_SurveyMan: Programming and Automatically Debugging Surveys_](https://uvm-cs295-f21.hotcrp.com/paper/9) (Aquarius) | Student Presentations (U, G)
-| Wed, Nov 3  | Crowdsourcing Systems and Design
+| Wed, Nov 3  | Crowdsourcing Systems and Design | Lecture | 
 | Fri, Nov 5  | &middot; [_The Crowd is a Collaborative Network_](https://uvm-cs295-f21.hotcrp.com/paper/23)  <br/> &middot; [_We are Dynamo: Overcoming Stalling and Friction in Collective Action for Crowd Workers_](https://uvm-cs295-f21.hotcrp.com/paper/22) (Gemini) | Student Presentations (U, G)
-| Mon, Nov 8  | Ethical Implications of Data Collection via Crowd Work | Lecture | 
+| Mon, Nov 8  | Ethical Implications of Data Collection via Crowd Work | Guest Lecture: [Sara Kingsley](www.sarakingsley.info) | 
 | Wed, Nov 10 | Experimentation and Causal Inference | Lecture
 | Fri, Nov 12 | &middot; [_Designing and Deploying Online Field Experiments_](https://uvm-cs295-f21.hotcrp.com/paper/11) <br/> &middot; [_PlanAlyzer: Assessing Threats to the Validity of Online Field Experiments_](https://uvm-cs295-f21.hotcrp.com/paper/10) (Libra) | Student Presentations (U, G)
 | Mon, Nov 15 | Report on outstanding tasks  | Student Presentations (G) | Project Mid-term Reports due (G)

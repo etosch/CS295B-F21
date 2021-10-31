@@ -16,4 +16,5 @@ There are no exams, programming assignments, or problem sets in this course.
 - Check out the [online syllabus](syllabus.md).
 - See what papers we will be reading in the [course schedule](schedule.md).
 - Taking the course for graduate credit? Check out the [semester-long course project](course_project.md).
+- 🚨 New &mdash; [Midterm Report Guidelines](midterm_report.md) 🚨 (due Nov. 15) 
 - Are you set up to take the course? Check out the [platforms and software](syllabus.html#platforms-and-software) we will be using.

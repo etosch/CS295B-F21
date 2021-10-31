@@ -5,6 +5,8 @@ Only graduate students are required to complete a course project. In the [Conten
 ## Logistics 
 _Updated 9/27/21._ I have reduced the number of project presentation days from the original number in the schedule. 
 
+_Update 10/31/21._ Please see [this page](midterm_report.md) for the midterm presentation and report guidelines. 
+
 ### Workshops and Presentations
 
 On workshop days, your presentation may take a variety of forms, including but not limited to:

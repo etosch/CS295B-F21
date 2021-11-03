@@ -31,7 +31,7 @@ _This schedule is tenative and thus subject to change._
 | Wed, Oct 27 | &middot; [_AutoMan: A Platform for Integrating Human-Based and Digital Computation_](https://uvm-cs295-f21.hotcrp.com/paper/8) (Gemini) <br/> &middot; [_Taking a HIT: Designing around Rejection, Mistrust, Risk, and Workers' Experiences in Amazon Mechanical Turk_](https://uvm-cs295-f21.hotcrp.com/paper/14) (Scorpio) |  Student Presentations (U, G)
 | Fri, Oct 29 | Underlying Assumptions: Demographics of Crowd Workers | [Lecture](lectures/demographics.pdf) |
 | Mon, Nov 1 | &middot; [_Demographics and Dynamics of Mechanical Turk Workers_](https://uvm-cs295-f21.hotcrp.com/paper/24) <br/> &middot; [_SurveyMan: Programming and Automatically Debugging Surveys_](https://uvm-cs295-f21.hotcrp.com/paper/9) (Aquarius) | Student Presentations (U, G)
-| Wed, Nov 3  | Crowdsourcing Systems and Design | Lecture | 
+| Wed, Nov 3  | Crowdsourcing Systems and Design | [Lecture](lectures/crowd_systems.pdf) | 
 | Fri, Nov 5  | &middot; [_The Crowd is a Collaborative Network_](https://uvm-cs295-f21.hotcrp.com/paper/23)  <br/> &middot; [_We are Dynamo: Overcoming Stalling and Friction in Collective Action for Crowd Workers_](https://uvm-cs295-f21.hotcrp.com/paper/22) (Gemini) | Student Presentations (U, G)
 | Mon, Nov 8  | Ethical Implications of Data Collection via Crowd Work | Guest Lecture: [Sara Kingsley](https://hcii.cmu.edu/people/sara-kingsley) | 
 | Wed, Nov 10 | Experimentation and Causal Inference | Lecture

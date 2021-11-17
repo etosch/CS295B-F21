@@ -32,12 +32,12 @@ _This schedule is tenative and thus subject to change._
 | Fri, Oct 29 | Underlying Assumptions: Demographics of Crowd Workers | [Lecture](lectures/demographics.pdf) |
 | Mon, Nov 1 | &middot; [_Demographics and Dynamics of Mechanical Turk Workers_](https://uvm-cs295-f21.hotcrp.com/paper/24) <br/> &middot; [_SurveyMan: Programming and Automatically Debugging Surveys_](https://uvm-cs295-f21.hotcrp.com/paper/9) (Aquarius) | Student Presentations (U, G)
 | Wed, Nov 3  | Crowdsourcing Systems and Design | [Lecture](lectures/crowd_systems.pdf) | 
-| Fri, Nov 5  | &middot; [_The Crowd is a Collaborative Network_](https://uvm-cs295-f21.hotcrp.com/paper/23)  <br/> &middot; [_We are Dynamo: Overcoming Stalling and Friction in Collective Action for Crowd Workers_](https://uvm-cs295-f21.hotcrp.com/paper/22) (Gemini) | Student Presentations (U, G)
+| Fri, Nov 5  | &middot; [_The Crowd is a Collaborative Network_](https://uvm-cs295-f21.hotcrp.com/paper/23) (Scorpio) <br/> &middot; [_We are Dynamo: Overcoming Stalling and Friction in Collective Action for Crowd Workers_](https://uvm-cs295-f21.hotcrp.com/paper/22) (Gemini) | Student Presentations (U, G)
 | Mon, Nov 8  | Ethical Implications of Data Collection via Crowd Work | Guest Lecture: [Sara Kingsley](https://hcii.cmu.edu/people/sara-kingsley) | 
-| Wed, Nov 10 | Experimentation and Causal Inference | Lecture
-| Fri, Nov 12 | &middot; [_Designing and Deploying Online Field Experiments_](https://uvm-cs295-f21.hotcrp.com/paper/11) <br/> &middot; [_PlanAlyzer: Assessing Threats to the Validity of Online Field Experiments_](https://uvm-cs295-f21.hotcrp.com/paper/10) (Libra) | Student Presentations (U, G)
+| Wed, Nov 10 | Experimentation and Causal Inference | [Lecture](lectures/experiments.pdf)
+| Fri, Nov 12 | &middot; [_Designing and Deploying Online Field Experiments_](https://uvm-cs295-f21.hotcrp.com/paper/11) (Scorpio) <br/> &middot; [_PlanAlyzer: Assessing Threats to the Validity of Online Field Experiments_](https://uvm-cs295-f21.hotcrp.com/paper/10) (Libra) | Student Presentations (U, G)
 | Mon, Nov 15 | Report on outstanding tasks  | Student Presentations (G) | Project Mid-term Reports due (G)
-| Wed, Nov 17 | Potpourri | Lecture | 
+| Wed, Nov 17 | Potpourri | [Lecture](lectures/potpourri.pdf) | 
 | Fri, Nov 19 | &middot; [_Seed Selection for Successful Fuzzing_](https://uvm-cs295-f21.hotcrp.com/paper/4) (Taurus) <br/> &middot;  [_The Next 700 Data Description Languages_](https://uvm-cs295-f21.hotcrp.com/paper/20) (Aquarius) | Student Presentations (U, G)
 | Mon, Nov 22 | **Thanksgiving Recess** | **No Class** |
 | Wed, Nov 24 | **Thanksgiving Recess** | **No Class** |

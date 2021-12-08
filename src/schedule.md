@@ -42,9 +42,9 @@ _This schedule is tenative and thus subject to change._
 | Mon, Nov 22 | **Thanksgiving Recess** | **No Class** |
 | Wed, Nov 24 | **Thanksgiving Recess** | **No Class** |
 | Fri, Nov 26 | **Thanksgiving Recess** | **No Class** |
-| Mon, Nov 29 | Modern Industrial Systems | Lecture
-| Wed, Dec 1 | &middot; [_Tensorflow: A System for Large-Scale Machine Learning_](https://uvm-cs295-f21.hotcrp.com/paper/12) (Scorpio) <br/> &middot; [_How Amazon Web Services Uses Formal Methods_](https://uvm-cs295-f21.hotcrp.com/paper/13) (Pices)
-| Fri, Dec 3 | Rethinking Industrial Roles | Lecture
+| Mon, Nov 29 | Modern Industrial Systems | [Lecture](lectures/industrial.pdf)
+| Wed, Dec 1 | &middot; [_Tensorflow: A System for Large-Scale Machine Learning_](https://uvm-cs295-f21.hotcrp.com/paper/12) <br/> &middot; [_How Amazon Web Services Uses Formal Methods_](https://uvm-cs295-f21.hotcrp.com/paper/13) (Pices)
+| Fri, Dec 3 | Rethinking Industrial Roles | [Lecture](lectures/rethinking_industrial.pdf)
 | Mon, Dec 6  | &middot; [_CivilServant: Community-Led Experiments in Platform Governance_](https://uvm-cs295-f21.hotcrp.com/paper/25) (Sagittarius) <br/> &middot; [_Untangling Research and Practice: What Facebook’s “Emotional Contagion” Study Teaches Us_](https://uvm-cs295-f21.hotcrp.com/paper/26) (Capricorn) | Student Presentations (U, G)
-| Wed, Dec 8  | TBD |
+| Wed, Dec 8  | TensorFlow: History, Tutorial, Q&A | Guest Lecture: [Alex Passos](https://www.conferencecast.tv/speaker-17903-alex-passos#.speakerPage-latest)
 | Fri, Dec 10 | Summary, Opportunities, Course Evaluations  | Party, you earned it! | **Project reports due by Dec. 16, 10:30am**

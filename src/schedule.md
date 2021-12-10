@@ -47,4 +47,4 @@ _This schedule is tenative and thus subject to change._
 | Fri, Dec 3 | Rethinking Industrial Roles | [Lecture](lectures/rethinking_industrial.pdf)
 | Mon, Dec 6  | &middot; [_CivilServant: Community-Led Experiments in Platform Governance_](https://uvm-cs295-f21.hotcrp.com/paper/25) (Sagittarius) <br/> &middot; [_Untangling Research and Practice: What Facebook’s “Emotional Contagion” Study Teaches Us_](https://uvm-cs295-f21.hotcrp.com/paper/26) (Capricorn) | Student Presentations (U, G)
 | Wed, Dec 8  | TensorFlow: History, Tutorial, Q&A | Guest Lecture: [Alex Passos](https://www.conferencecast.tv/speaker-17903-alex-passos#.speakerPage-latest)
-| Fri, Dec 10 | Summary, Opportunities, Course Evaluations  | Party, you earned it! | **Project reports due by Dec. 16, 10:30am**
+| Fri, Dec 10 | Data Privacy | Guest Lecture: [Joe Near](https://uvm.edu/~jnear) <br/> **Final Day to complete Course Evaluations!** | **Project reports due by Dec. 16, 10:30am**
